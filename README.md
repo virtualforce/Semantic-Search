@@ -30,7 +30,8 @@ Send a POST request to the API endpoint with the query you want to perform a sem
 #### API Endpoint - https://chattesting.virtualforce.io/semantic-search
 
 ### Query/Request Body: 
-```{
+```
+{
     "query":"black shirt"
 }
 ```
